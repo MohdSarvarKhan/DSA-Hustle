@@ -54,8 +54,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
