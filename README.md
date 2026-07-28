@@ -61,8 +61,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0876-middle-of-the-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0206-reverse-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2487-remove-nodes-from-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
