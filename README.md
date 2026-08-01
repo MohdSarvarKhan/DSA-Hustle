@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0876-middle-of-the-linked-list) |
 ## Linked List
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0234-palindrome-linked-list) |
