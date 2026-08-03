@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0409-longest-palindrome](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0409-longest-palindrome) |
 | [0686-repeated-string-match](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0686-repeated-string-match) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1392-longest-happy-prefix) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2487-remove-nodes-from-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -107,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
