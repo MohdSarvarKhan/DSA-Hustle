@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0844-backspace-string-compare) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
@@ -126,5 +128,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
