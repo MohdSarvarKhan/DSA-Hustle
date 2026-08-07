@@ -125,13 +125,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
 ## Array
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
