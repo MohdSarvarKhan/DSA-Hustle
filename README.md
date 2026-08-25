@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0239-sliding-window-maximum) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0844-backspace-string-compare) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Array
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
