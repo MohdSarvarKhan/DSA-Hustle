@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2785-sort-vowels-in-a-string) |
 ## Rolling Hash
 |  |
@@ -115,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0023-merge-k-sorted-lists) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0239-sliding-window-maximum) |
 | [1046-last-stone-weight](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
 | [1046-last-stone-weight](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1046-last-stone-weight) |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0222-count-complete-tree-nodes) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
