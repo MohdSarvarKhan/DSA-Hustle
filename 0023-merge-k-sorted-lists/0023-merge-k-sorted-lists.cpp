@@ -11,73 +11,38 @@
 class Solution {
 public:
 
-    ListNode* sortedMerge(ListNode* head1, ListNode* head2) {
-    
-	if(!head1)
-	return head2;
-
-	if(!head2){
-		return head1;
-	}
-	
-	ListNode* Head = new ListNode(0);
-	ListNode* Tail = Head;
-
-
-	while(head1&&head2){
-		if(head1->val<=head2->val){
-           Tail->next = head1;
-		   head1 = head1->next;
-		   Tail = Tail->next;
-		   Tail->next = NULL;
-		}
-		else{
-		   Tail->next = head2;
-		   head2 = head2->next;
-		   Tail = Tail->next;
-		   Tail->next = NULL;
-		}
-	}
-
-
-	// ya toh head1 exist karega ya head2 exist karega
-
-	if(!head1){
-		Tail->next = head2;
-	}
-	else{
-		Tail->next = head1;
-	}
-
-
-	// Remove the dummy node
-	ListNode *Temp = Head;
-	Head = Head->next;
-	delete Temp;
-
-	return Head;
-}
-
-
-ListNode* merge(vector<ListNode*>& arr, int start, int end){
-
-    if(start==end){
-		return arr[start];
-	}
-
-	int mid = start+(end-start)/2;
-
-	ListNode* head1 = merge(arr,start,mid);
-	ListNode* head2 = merge(arr,mid+1,end);
-
-	return sortedMerge(head1,head2);
-}
+    struct compare{
+        bool operator()(ListNode* first , ListNode* second){
+            return first->val > second->val;
+        }
+    };
 
 
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(!lists.size()){
-		return NULL;
-	}
-    return merge(lists,0,lists.size()-1);
+        priority_queue<ListNode*,vector<ListNode*>,compare>pq;
+        int k = lists.size(); 
+        for(int i = 0; i < k; i++){
+            if(lists[i])pq.push(lists[i]);
+        }
+
+   ListNode* dummy = new ListNode(0);
+    ListNode* tail = dummy;
+
+        while(!pq.empty()){
+            
+            ListNode* curr = pq.top();
+            pq.pop();
+
+            tail->next = curr;
+            curr = curr->next;
+            tail = tail->next;
+            if(curr){
+            pq.push(curr);
+        }
+    
+
+        }
+
+        return dummy->next;
     }
 };
