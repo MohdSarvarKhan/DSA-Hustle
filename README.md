@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0160-intersection-of-two-linked-lists) |
 | [0409-longest-palindrome](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## String
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-last-stone-weight](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1046-last-stone-weight) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
@@ -278,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0295-find-median-from-data-stream) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
