@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1046-last-stone-weight) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -284,4 +286,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
