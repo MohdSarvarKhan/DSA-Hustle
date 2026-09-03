@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0713-subarray-product-less-than-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0713-subarray-product-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0713-subarray-product-less-than-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1046-last-stone-weight](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1046-last-stone-weight) |
 | [2073-time-needed-to-buy-tickets](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2073-time-needed-to-buy-tickets) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0713-subarray-product-less-than-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0713-subarray-product-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -286,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0713-subarray-product-less-than-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
