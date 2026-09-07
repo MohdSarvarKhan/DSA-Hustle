@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0713-subarray-product-less-than-k) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
