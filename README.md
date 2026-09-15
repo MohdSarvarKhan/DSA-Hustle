@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0066-plus-one) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0209-minimum-size-subarray-sum) |
