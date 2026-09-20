@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0142-linked-list-cycle-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0125-valid-palindrome) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0074-search-a-2d-matrix) |
