@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0084-largest-rectangle-in-histogram) |
+| [0169-majority-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0239-sliding-window-maximum) |
@@ -339,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0014-longest-common-prefix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
