@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0069-sqrtx) |
+| [0507-perfect-number](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0507-perfect-number) |
 ## Sorting
 |  |
 | ------- |
