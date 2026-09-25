@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1096-brace-expansion-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0686-repeated-string-match) |
 | [0844-backspace-string-compare](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1096-brace-expansion-ii) |
 | [1392-longest-happy-prefix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1392-longest-happy-prefix) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2785-sort-vowels-in-a-string) |
 ## Greedy
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1096-brace-expansion-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1096-brace-expansion-ii) |
 | [2785-sort-vowels-in-a-string](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2785-sort-vowels-in-a-string) |
 ## Rolling Hash
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1096-brace-expansion-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1096-brace-expansion-ii) |
 | [2487-remove-nodes-from-linked-list](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0993-cousins-in-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1096-brace-expansion-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -359,4 +364,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/MohdSarvarKhan/DSA-Hustle/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
